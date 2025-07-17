@@ -1,6 +1,6 @@
 import React from 'react'
 
-const App = () => {
+const StudentsFeedback = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const App = () => {
   )
 }
 
-export default App
+export default StudentsFeedback
